@@ -1,18 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>待办事项 on 八原妖怪大集合</title>
-    <link>//localhost:1313/skill/</link>
-    <description>Recent content in 待办事项 on 八原妖怪大集合</description>
-    <generator>Hugo</generator>
-    <language>zh</language>
-    <atom:link href="//localhost:1313/skill/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>技能树</title>
-      <link>//localhost:1313/skill/%E6%8A%80%E8%83%BD%E6%A0%91/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/skill/%E6%8A%80%E8%83%BD%E6%A0%91/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;java基础及JVM&#xA;&lt;ul&gt;&#xA;&lt;li&gt;java内存模型和jvm 模型&lt;/li&gt;&#xA;&lt;li&gt;JVM调优&lt;/li&gt;&#xA;&lt;li&gt;java新特性，java9模块化  &lt;a href=&#34;https://segmentfault.com/a/1190000022654702#item-2-5&#34;&#xA;&#xA;&#xA;&#xA;&#xA; target=&#34;_blank&#34;&#xA; &#xA;&#xA;&#xA;&gt;Java11相对Java8的新特性 - 个人文章 - SegmentFault 思否&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;多线程&lt;/li&gt;&#xA;&lt;li&gt;java 集合&lt;/li&gt;&#xA;&lt;li&gt;NIO&lt;/li&gt;&#xA;&lt;li&gt;java框架&#xA;&lt;ul&gt;&#xA;&lt;li&gt;spring&lt;/li&gt;&#xA;&lt;li&gt;spring session&lt;/li&gt;&#xA;&lt;li&gt;spring mvc&lt;/li&gt;&#xA;&lt;li&gt;spring cloud&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;restful&lt;/li&gt;&#xA;&lt;li&gt;netty&lt;/li&gt;&#xA;&lt;li&gt;endpoint&lt;/li&gt;&#xA;&lt;li&gt;设计模式&lt;/li&gt;&#xA;&lt;li&gt;guava&lt;/li&gt;&#xA;&lt;li&gt;Cassandra&lt;/li&gt;&#xA;&lt;li&gt;maven&lt;/li&gt;&#xA;&lt;li&gt;gradle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;数据库&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SQL优化&lt;/li&gt;&#xA;&lt;li&gt;mysql&lt;/li&gt;&#xA;&lt;li&gt;redis&lt;/li&gt;&#xA;&lt;li&gt;数据库分库分表&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;分布式&#xA;&lt;ul&gt;&#xA;&lt;li&gt;分布式事务&lt;/li&gt;&#xA;&lt;li&gt;RPC&lt;/li&gt;&#xA;&lt;li&gt;Spring Cloud&lt;/li&gt;&#xA;&lt;li&gt;分布式消息&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;云原生&#xA;&lt;ul&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;docker 网络&lt;/li&gt;&#xA;&lt;li&gt;k8s&#xA;&lt;ul&gt;&#xA;&lt;li&gt;statefulset&lt;/li&gt;&#xA;&lt;li&gt;ingress&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;charts helm&lt;/li&gt;&#xA;&lt;li&gt;istio&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;网络&#xA;&lt;ul&gt;&#xA;&lt;li&gt;nginx&lt;/li&gt;&#xA;&lt;li&gt;http&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;安全&#xA;&lt;ul&gt;&#xA;&lt;li&gt;spring security&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/blog/auth&#34;&#xA;&#xA;&#xA;&#xA; &#xA;&#xA;&#xA;&gt;认证相关&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;DevOps&#xA;&lt;ul&gt;&#xA;&lt;li&gt;jenkins&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;实用工具&#xA;&lt;ul&gt;&#xA;&lt;li&gt;idea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;python&lt;/li&gt;&#xA;&lt;li&gt;go&lt;/li&gt;&#xA;&lt;li&gt;lua&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>待办事项 on 八原妖怪大集合</title><link>https://www.lumos.xin/skill/</link><description>Recent content in 待办事项 on 八原妖怪大集合</description><generator>Hugo</generator><language>zh</language><atom:link href="https://www.lumos.xin/skill/index.xml" rel="self" type="application/rss+xml"/><item><title>技能树</title><link>https://www.lumos.xin/skill/%E6%8A%80%E8%83%BD%E6%A0%91/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lumos.xin/skill/%E6%8A%80%E8%83%BD%E6%A0%91/</guid><description>&lt;ul>
+&lt;li>java基础及JVM
+&lt;ul>
+&lt;li>java内存模型和jvm 模型&lt;/li>
+&lt;li>JVM调优&lt;/li>
+&lt;li>java新特性，java9模块化 &lt;a href="https://segmentfault.com/a/1190000022654702#item-2-5"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Java11相对Java8的新特性 - 个人文章 - SegmentFault 思否&lt;/a>&lt;/li>
+&lt;li>多线程&lt;/li>
+&lt;li>java 集合&lt;/li>
+&lt;li>NIO&lt;/li>
+&lt;li>java框架
+&lt;ul>
+&lt;li>spring&lt;/li>
+&lt;li>spring session&lt;/li>
+&lt;li>spring mvc&lt;/li>
+&lt;li>spring cloud&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>restful&lt;/li>
+&lt;li>netty&lt;/li>
+&lt;li>endpoint&lt;/li>
+&lt;li>设计模式&lt;/li>
+&lt;li>guava&lt;/li>
+&lt;li>Cassandra&lt;/li>
+&lt;li>maven&lt;/li>
+&lt;li>gradle&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>数据库
+&lt;ul>
+&lt;li>SQL优化&lt;/li>
+&lt;li>mysql&lt;/li>
+&lt;li>redis&lt;/li>
+&lt;li>数据库分库分表&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>分布式
+&lt;ul>
+&lt;li>分布式事务&lt;/li>
+&lt;li>RPC&lt;/li>
+&lt;li>Spring Cloud&lt;/li>
+&lt;li>分布式消息&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>云原生
+&lt;ul>
+&lt;li>docker&lt;/li>
+&lt;li>docker 网络&lt;/li>
+&lt;li>k8s
+&lt;ul>
+&lt;li>statefulset&lt;/li>
+&lt;li>ingress&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>charts helm&lt;/li>
+&lt;li>istio&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>网络
+&lt;ul>
+&lt;li>nginx&lt;/li>
+&lt;li>http&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>安全
+&lt;ul>
+&lt;li>spring security&lt;/li>
+&lt;li>&lt;a href="https://www.lumos.xin/blog/auth"
+
+
+
+ 
+
+
+>认证相关&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>DevOps
+&lt;ul>
+&lt;li>jenkins&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>实用工具
+&lt;ul>
+&lt;li>idea&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>python&lt;/li>
+&lt;li>go&lt;/li>
+&lt;li>lua&lt;/li>
+&lt;/ul></description></item></channel></rss>
